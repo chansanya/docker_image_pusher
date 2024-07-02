@@ -3,3 +3,6 @@ postgres
 python:3.11
 mysql:8.0.17
 sonatype/nexus3
+registry.cn-hangzhou.aliyuncs.com/zhuyijun/oracle:19c
+redis:5.0.5-alpine
+minio/minio
